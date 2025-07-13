@@ -138,6 +138,6 @@ If you are working on the notebooks, you may want to apply ruff for code formatt
 
 <https://gist.github.com/jbwhit/eecdd1cac2756df85ad165f437445b0b>
 
-## Star History
+## Star History 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=pyOpenSci/lessons&type=Date)](https://star-history.com/#pyOpenSci/lessons&Date)
